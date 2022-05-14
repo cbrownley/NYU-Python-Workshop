@@ -47,7 +47,7 @@ This repository contains all of the Python notebooks and files associated with t
 
 ## extra references (on the libraries we use in the workshop)
 
-python<br>
+**Python**<br>
 **Standard library**: describes the exact syntax and semantics of the Python language
 https://docs.python.org/3/library/ <br>
 **Anaconda distribution**: the world's most popular open-source Python distribution platform
@@ -120,8 +120,8 @@ https://scikit-learn.org/stable/auto_examples/index.html <br>
 https://www.tensorflow.org/ <br>
 https://www.tensorflow.org/tutorials <br>
 https://www.tensorflow.org/resources/learn-ml <br>
-Regression: https://www.tensorflow.org/tutorials/keras/regression <br>
-Classification: https://www.tensorflow.org/tutorials/structured_data/preprocessing_layers <br>
+*Regression*: https://www.tensorflow.org/tutorials/keras/regression <br>
+*Classification*: https://www.tensorflow.org/tutorials/structured_data/preprocessing_layers <br>
 
 **Computational Statistics in Python** <br>
 *Current*: https://people.duke.edu/~ccc14/sta-663-2017/ <br>
