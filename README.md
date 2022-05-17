@@ -48,7 +48,7 @@ This repository contains all of the Python notebooks and files associated with t
 ## extra references (on the libraries we use in the workshop)
 
 **Python**<br>
-**Standard library**: describes the exact syntax and semantics of the Python language
+**Standard library**: describes the exact syntax and semantics of the Python language <br>
 https://www.python.org/ <br>
 https://docs.python.org/3/library/ <br>
 
