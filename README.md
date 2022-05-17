@@ -49,9 +49,11 @@ This repository contains all of the Python notebooks and files associated with t
 
 **Python**<br>
 **Standard library**: describes the exact syntax and semantics of the Python language
+https://www.python.org/ <br>
 https://docs.python.org/3/library/ <br>
 **Anaconda distribution**: the world's most popular open-source Python distribution platform
 https://www.anaconda.com/products/distribution <br>
+https://docs.anaconda.com/anaconda/ <br>
 
 **pandas**: a Python library providing high-performance, easy-to-use data structures and data analysis tools
 https://pandas.pydata.org/docs/user_guide/index.html <br>
