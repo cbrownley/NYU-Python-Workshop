@@ -152,6 +152,9 @@ https://github.com/pymc-devs/pymc-resources/tree/main/Rethinking_2 <br>
 https://bayesiancomputationbook.com/welcome.html <br>
 https://github.com/BayesianModelingandComputationInPython/BookCode_Edition1 <br>
 
+**Python Machine Learning (third edition)** <br>
+https://github.com/rasbt/python-machine-learning-book-3rd-edition <br>
+
 **UC Berkeley D-Lab** <br>
 *Pandas*: https://github.com/dlab-berkeley/Python-Data-Wrangling <br>
 *Visualization*: https://github.com/dlab-berkeley/Python-Data-Visualization <br>
